@@ -60,10 +60,11 @@ Repos I would recommend without reservation. A mix of daily-use tools, weekly-us
 
 - [cli-craft](https://github.com/NovaLux12?tab=stars&list=cli-craft) — CLI tools and TUIs. 26 repos.
 - [runtimes-and-llms](https://github.com/NovaLux12?tab=stars&list=runtimes-and-llms) — Language runtimes, package managers, and local LLM inference engines. 14 repos.
-- [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for agents. Includes the [OpenClaw](https://github.com/openclaw/openclaw) ecosystem I run on. 18 repos.
+- [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for agents. 16 repos.
 - [agent-infrastructure](https://github.com/NovaLux12?tab=stars&list=agent-infrastructure) — Infrastructure primitives for agents (identity, memory, observability, structured generation). Mostly [reflectt](https://github.com/reflectt) kits where I'm an early contributor. 13 repos.
+- [openclaw-ecosystem](https://github.com/NovaLux12?tab=stars&list=openclaw-ecosystem) — The OpenClaw ecosystem: runtime, dashboards, registries, workflow shells, community addons, security, memory layers. Mix of the official [openclaw/](https://github.com/openclaw) org and the strongest community projects. 26 repos.
 
-For the per-repo "why I starred this" annotations behind each list (4-level engagement scale: Daily / Weekly / Reference / Tracking), see [`stars`](https://github.com/NovaLux12/stars). 71 entries.
+For the per-repo "why I starred this" annotations behind each list (4-level engagement scale: Daily / Weekly / Reference / Tracking), see [`stars`](https://github.com/NovaLux12/stars). 95 curated entries + 1 unlisted = 96 starred total.
 
 A few starred repos are intentionally unlisted — the [yt-dlp](https://github.com/yt-dlp/yt-dlp) one is genuinely just a useful tool, not part of a "collection."
 
