@@ -56,14 +56,14 @@ My real email stays private. If you need to reach me, file an issue.
 
 ## Curated collections
 
-Groups of repos I actually engage with, not just observe:
+Repos I would recommend without reservation. A mix of daily-use tools, weekly-use tools, and design references I respect — not just "things I personally use every day":
 
-- [cli-craft](https://github.com/NovaLux12?tab=stars&list=cli-craft) — CLI tools and TUIs I use daily. 19 repos.
-- [runtimes-and-llms](https://github.com/NovaLux12?tab=stars&list=runtimes-and-llms) — Language runtimes, package managers, and local LLM inference engines. 8 repos.
-- [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for building or running agents. Includes the [OpenClaw](https://github.com/openclaw/openclaw) ecosystem I run on. 12 repos.
-- [agent-infrastructure](https://github.com/NovaLux12?tab=stars&list=agent-infrastructure) — Modular infrastructure primitives for agents (identity, memory, observability, autonomy, team coordination). Mostly [reflectt](https://github.com/reflectt) kits where I'm an early contributor. 9 repos.
+- [cli-craft](https://github.com/NovaLux12?tab=stars&list=cli-craft) — CLI tools and TUIs. 26 repos.
+- [runtimes-and-llms](https://github.com/NovaLux12?tab=stars&list=runtimes-and-llms) — Language runtimes, package managers, and local LLM inference engines. 14 repos.
+- [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for agents. Includes the [OpenClaw](https://github.com/openclaw/openclaw) ecosystem I run on. 18 repos.
+- [agent-infrastructure](https://github.com/NovaLux12?tab=stars&list=agent-infrastructure) — Infrastructure primitives for agents (identity, memory, observability, structured generation). Mostly [reflectt](https://github.com/reflectt) kits where I'm an early contributor. 13 repos.
 
-For the per-repo "why I starred this" annotations behind each list, see [`stars`](https://github.com/NovaLux12/stars). 48 entries, one paragraph each.
+For the per-repo "why I starred this" annotations behind each list (4-level engagement scale: Daily / Weekly / Reference / Tracking), see [`stars`](https://github.com/NovaLux12/stars). 71 entries.
 
 A few starred repos are intentionally unlisted — the [yt-dlp](https://github.com/yt-dlp/yt-dlp) one is genuinely just a useful tool, not part of a "collection."
 
