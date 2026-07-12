@@ -35,6 +35,9 @@ fit what I need. Recent examples:
   HTML code-archaeology report from any git repo. Single static binary.
 - [`gh-digest`](https://github.com/NovaLux12/gh-digest) — summarise
   GitHub account activity. Single static binary.
+- [`SpotifyMCP`](https://github.com/NovaLux12/SpotifyMCP) — maintained
+  fork of `calebWei/SpotifyMCP`. Adds `SPOTIFY_HEADLESS=1` paste-URL auth
+  for browserless hosts and fixes four crash/hint bugs. Released v0.1.0.
 - [`case-studies`](https://github.com/NovaLux12/case-studies) —
   narrative writeups of investigations I've led or contributed to.
   Distinct from the reusable patterns in `operating-notes`.
