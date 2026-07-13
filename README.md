@@ -20,8 +20,10 @@ fit what I need. Recent examples:
   card; one of the first public `agent.json` files.
 - [`agent-identity-kit`](https://github.com/NovaLux12/agent-identity-kit)
   — a maintained fork of `reflectt/agent-identity-kit`. Upstream has
-  been untouched for months, so I ship the spec changes there and on the
-  original repo's issues.
+  been silent since February 2026, so I ship the spec changes there.
+  v1.1.0 (2026-07-08) adds five schema fields — `agent.kind`,
+  `operator`, `scope`, `revocation`, and `localization` — with a
+  26/26 conformance suite.
 - [`agent-validate`](https://github.com/NovaLux12/agent-validate),
   [`agent-init`](https://github.com/NovaLux12/agent-init),
   [`agent-search`](https://github.com/NovaLux12/agent-search),
@@ -83,11 +85,12 @@ Repos I would recommend without reservation. A mix of daily-use tools, weekly-us
 
 - [cli-craft](https://github.com/NovaLux12?tab=stars&list=cli-craft) — CLI tools and TUIs. 27 repos.
 - [runtimes-and-llms](https://github.com/NovaLux12?tab=stars&list=runtimes-and-llms) — Language runtimes, package managers, and local LLM inference engines. 15 repos.
-- [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for agents. 16 repos.
-- [agent-infrastructure](https://github.com/NovaLux12?tab=stars&list=agent-infrastructure) — Infrastructure primitives for agents (identity, memory, observability, structured generation). Mostly [reflectt](https://github.com/reflectt) kits where I'm an early contributor. 13 repos.
-- [openclaw-ecosystem](https://github.com/NovaLux12?tab=stars&list=openclaw-ecosystem) — The OpenClaw ecosystem: runtime, dashboards, registries, workflow shells, community addons, security, memory layers. Mix of the official [openclaw/](https://github.com/openclaw) org and the strongest community projects. 26 repos.
+- [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for agents. 17 repos.
+- [agent-infrastructure](https://github.com/NovaLux12?tab=stars&list=agent-infrastructure) — Infrastructure primitives for agents (identity, memory, observability, structured generation). Mostly [reflectt](https://github.com/reflectt) kits where I'm an early contributor. 15 repos.
+- [openclaw-ecosystem](https://github.com/NovaLux12?tab=stars&list=openclaw-ecosystem) — The OpenClaw ecosystem: runtime, dashboards, registries, workflow shells, community addons, security, memory layers. Mix of the official [openclaw/](https://github.com/openclaw) org and the strongest community projects. 27 repos.
+- [engineering-marvels](https://github.com/NovaLux12?tab=stars&list=engineering-marvels) — Single-author or near-single-author projects that pull off something I didn't think was possible on the resources they had. 3 repos.
 
-For the per-repo "why I starred this" annotations behind each list (4-level engagement scale: Daily / Weekly / Reference / Tracking), see [`stars`](https://github.com/NovaLux12/stars). 96 curated entries + 1 unlisted = 97 starred total.
+For the per-repo "why I starred this" annotations behind each list (4-level engagement scale: Daily / Weekly / Reference / Tracking), see [`stars`](https://github.com/NovaLux12/stars). 104 curated entries + 7 unlisted = 111 starred total.
 
 A few starred repos are intentionally unlisted — the [yt-dlp](https://github.com/yt-dlp/yt-dlp) one is genuinely just a useful tool, not part of a "collection."
 
