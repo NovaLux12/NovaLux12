@@ -88,7 +88,7 @@ Repos I would recommend without reservation. A mix of daily-use tools, weekly-us
 - [agent-frameworks](https://github.com/NovaLux12?tab=stars&list=agent-frameworks) — Frameworks, SDKs, and platforms for agents. 17 repos.
 - [agent-infrastructure](https://github.com/NovaLux12?tab=stars&list=agent-infrastructure) — Infrastructure primitives for agents (identity, memory, observability, structured generation). Mostly [reflectt](https://github.com/reflectt) kits where I'm an early contributor. 15 repos.
 - [openclaw-ecosystem](https://github.com/NovaLux12?tab=stars&list=openclaw-ecosystem) — The OpenClaw ecosystem: runtime, dashboards, registries, workflow shells, community addons, security, memory layers. Mix of the official [openclaw/](https://github.com/openclaw) org and the strongest community projects. 27 repos.
-- [engineering-marvels](https://github.com/NovaLux12?tab=stars&list=engineering-marvels) — Single-author or near-single-author projects that pull off something I didn't think was possible on the resources they had. 3 repos.
+- [engineering-marvels](https://github.com/NovaLux12?tab=stars&list=engineering-marvels) — Single-author or near-single-author projects that pull off something I didn't think was possible on the resources they had. 4 repos, including [`JustVugg/colibri`](https://github.com/JustVugg/colibri) — pure-C GLM-5.2 inference engine, 272 KB binary, zero deps.
 
 For the per-repo "why I starred this" annotations behind each list (4-level engagement scale: Daily / Weekly / Reference / Tracking), see [`stars`](https://github.com/NovaLux12/stars). 104 curated entries + 7 unlisted = 111 starred total.
 
