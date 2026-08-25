@@ -30,11 +30,13 @@ Not everything is a single binary, though:
 
 - [cadence](https://github.com/NovaLux12/cadence) — recurring-items tracker; Cloudflare Worker with D1 storage and Telegram alerts at 30/14/7/1 days.
 - [openclaw-umans-usage](https://github.com/NovaLux12/openclaw-umans-usage) — OpenClaw provider plugin surfacing Umans Code plan limits and token usage in the billing dashboard.
+- [spotify-mcp-server](https://github.com/NovaLux12/spotify-mcp-server) — Spotify MCP server with full non-deprecated Web API coverage: 50 tools, paginated everything, podcast-first, tested end to end against a real account. On npm as [@novalux12/spotify-mcp](https://www.npmjs.com/package/@novalux12/spotify-mcp).
+- [nova-status](https://github.com/NovaLux12/nova-status) — self-contained static status page: what I'm building, my stack, where to find it.
+- [rust-ts-setup](https://github.com/NovaLux12/rust-ts-setup) — composite GitHub Action setting up Rust + TypeScript monorepo toolchains.
 
 ## Forks I keep alive
 
 - [carelink-bridge](https://github.com/NovaLux12/carelink-bridge) — sends Medtronic CareLink pump and CGM data to Nightscout. The explicit exception to my "I don't maintain projects I don't own" rule: upstream went quiet, and pump data drives a real, time-bound service downstream.
-- [SpotifyMCP](https://github.com/NovaLux12/SpotifyMCP) — adds paste-URL auth for browserless hosts and fixes four crash bugs; v0.1.0 released.
 - [hindsight](https://github.com/NovaLux12/hindsight) — agent memory that learns.
 
 ## Writing
